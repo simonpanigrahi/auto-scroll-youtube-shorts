@@ -5,7 +5,7 @@
     "description": "Automatically scrolls to the next YouTube Short after the current one ends.",
     "icons":{
       "128":"Shorts-scroller.png",
-    }
+    },
     "permissions": [
       "activeTab",
       "scripting"
